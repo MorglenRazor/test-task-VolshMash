@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.085,=E:\Programming\delphi_project\bank_accounts\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Programming\delphi_project\bank_accounts\Bank_accounts.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\Programming\delphi_project\bank_accounts\Transfer.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.822,E:\Programming\delphi_project\bank_accounts\Refill.pas=E:\Programming\delphi_project\bank_accounts\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,E:\Programming\delphi_project\bank_accounts\Payment.dfm=E:\Programming\delphi_project\bank_accounts\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,E:\Programming\delphi_project\bank_accounts\Unit1.dfm=E:\Programming\delphi_project\bank_accounts\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.688,=E:\Programming\delphi_project\bank_accounts\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,E:\Programming\delphi_project\bank_accounts\DataModule.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,=E:\Programming\delphi_project\bank_accounts\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.822,E:\Programming\delphi_project\bank_accounts\Refill.dfm=E:\Programming\delphi_project\bank_accounts\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Programming\delphi_project\bank_accounts\Bank_accounts.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Programming\delphi_project\bank_accounts\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.dfm=E:\Programming\delphi_project\bank_accounts\Transfer.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,E:\Programming\delphi_project\bank_accounts\Payment.pas=E:\Programming\delphi_project\bank_accounts\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,E:\Programming\delphi_project\bank_accounts\Unit1.pas=E:\Programming\delphi_project\bank_accounts\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.072,=E:\Programming\delphi_project\bank_accounts\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
